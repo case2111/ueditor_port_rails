@@ -1,2 +1,2 @@
 # ueditor_port_rails
-modiry baidu ueditor for rails applicaton
+port baidu ueditor to rails applicaton
